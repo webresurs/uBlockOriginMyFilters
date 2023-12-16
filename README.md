@@ -11,3 +11,4 @@
 ```
 https://raw.githubusercontent.com/webresurs/uBlockOriginMyFilters/master/MyFilters.txt
 ```
+- нажмите кнокпу `Применить изменения`
