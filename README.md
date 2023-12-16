@@ -24,4 +24,4 @@ https://raw.githubusercontent.com/webresurs/uBlockOriginMyFilters/master/MyFilte
 
 # uBlock-Origin
 
-> Набор фильтров [uBlock Origin](https://github.com/gorhill/uBlock/) для экономии пространства на вертикальном экране и удаления назойливых полей.
+> Расширение для браузера [uBlock Origin](https://github.com/gorhill/uBlock/) для экономии пространства на вертикальном экране и удаления назойливых полей.
