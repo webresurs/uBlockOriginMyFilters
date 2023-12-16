@@ -21,3 +21,7 @@ https://raw.githubusercontent.com/webresurs/uBlockOriginMyFilters/master/MyFilte
   <br>
   <br>
 <img src="https://raw.githubusercontent.com/webresurs/uBlockOriginMyFilters/main/subscribetofilterlist.jpg" alt="Контекстное меню при нажатии на ссылку подписки на список фильтров, показывающее параметры uBlock Origin." title="Здесь отображается контекстное меню, но оно должно работать в любом браузере, поддерживающем последнюю версию uBo.  uBo lite не поддерживается (пока) и, возможно, никогда не будет поддерживаться."><br>
+
+# uBlock-Origin
+
+Набор фильтров [uBlock Origin](https://github.com/gorhill/uBlock/) для экономии пространства на вертикальном экране и удаления назойливых полей.
