@@ -1,0 +1,14 @@
+! 2022 mail.yandex.ru
+*/u2709/*
+*/6366a3T/*
+
+! 2023-12-16 docviewer.yandex.ru
+docviewer.yandex.ru##div[data-ssr]
+
+! 2023-12-16  yandex.ru/pogoda
+yandex.ru##div[data-block-name]
+yandex.ru##div[data-ssr]
+yandex.ru##div[style="max-height: 600px;"]
+yandex.ru##div[style="width: 300px !important; height: 600px !important;"]
+yandex.ru##div[style="width: 300px !important; height: 300px !important;"]
+yandex.ru##div[style="position: relative;"]
