@@ -2,6 +2,9 @@
 ! 
 ! Version: 202312171200
 ! Title: RU webresurs website blocklist
+! 
+! 
+! Homepage: https://github.com/webresurs/uBlockOriginMyFilters/
 !==============================================================================
 ! 2022 mail.yandex.ru
 */u2709/*
