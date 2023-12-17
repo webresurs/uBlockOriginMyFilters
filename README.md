@@ -28,8 +28,8 @@ https://raw.githubusercontent.com/webresurs/uBlockOriginMyFilters/master/MyFilte
 
 # Cписок блокировок
 #### - Добавление автоматически с автообновлением списка
-Нажмите [сюда](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt&title=NoADS_RU), от  от [Zalexanninev15](https://github.com/Zalexanninev15/NoADS_RU/),
-еще [RU AdList: BitBlock + Fanboy's General](https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/bitblock.txt&title=RU%20AdList%20BitBlock%20Fanboys%20General) ,
+Нажмите [сюда](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt&title=NoADS_RU), от  [Zalexanninev15](https://github.com/Zalexanninev15/NoADS_RU/),  <br>
+еще [RU AdList: BitBlock + Fanboy's General](https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/bitblock.txt&title=RU%20AdList%20BitBlock%20Fanboys%20General) ,  <br>
 еще [RU AdList: Counters](https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/cntblock.txt&title=RU%20AdList%20Counters) , далее всё зависит от версии расширения:
 
 **Вариант 1:** Откроется вкладка с возможностью подписаться на список (в новых версиях uBlock Origin). Смело нажимайте на кнопку *Подписаться*
