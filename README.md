@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/webresurs/uBlockOriginMyFilters/master/MyFilte
 ```
 >  нажмите кнокпу `Применить изменения`
 
-#### или через Подписку
+#### или добавление автоматически с автообновлением списка через подписку
 
 [Подписка](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/webresurs/uBlockOriginMyFilters/master/MyFilters.txt&title=The%20webresurs%20website%20blocklist)
 
@@ -25,3 +25,20 @@ https://raw.githubusercontent.com/webresurs/uBlockOriginMyFilters/master/MyFilte
 # uBlock-Origin
 
 > Расширение для браузера [uBlock Origin](https://github.com/gorhill/uBlock/) для экономии пространства на вертикальном экране и удаления назойливых полей.
+
+### список блокировок от [Zalexanninev15}(https://github.com/Zalexanninev15/NoADS_RU/)
+#### - Добавление автоматически с автообновлением списка
+Нажмите [сюда](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt&title=NoADS_RU), далее всё зависит от версии расширения:
+
+**Вариант 1:** Откроется вкладка с возможностью подписаться на список (в новых версиях uBlock Origin). Смело нажимайте на кнопку *Подписаться*
+
+![image](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/Subscribe-in-uBlock-Origin.png?raw=true)
+
+**Вариант 2 [всплывающие сообщения]:** Согласитесь на добавление в плагин (нажмите ОК на всех всплывающих сообщениях). Если у вас при нажатии на ссылку откроется новая вкладка, то закройте её, и нажмите на ссылку вновь
+
+#### - Добавление вручную с автообновлением списка
+1. Зайдите в настройки расширения (в данном расширении "Открыть панель управления")
+2. Следуйте данной гифке
+
+![](https://github.com/Zalexanninev15/NoADS_RU/blob/main/assets/How-to-subscribe-in-uBlock-Origin.gif)
+Ссылка, которую нужно вставить: ```https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt```
