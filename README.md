@@ -26,9 +26,11 @@ https://raw.githubusercontent.com/webresurs/uBlockOriginMyFilters/master/MyFilte
 
 > Расширение для браузера [uBlock Origin](https://github.com/gorhill/uBlock/) для экономии пространства на вертикальном экране и удаления назойливых полей.
 
-### список блокировок от [Zalexanninev15](https://github.com/Zalexanninev15/NoADS_RU/)
+# Cписок блокировок
 #### - Добавление автоматически с автообновлением списка
-Нажмите [сюда](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt&title=NoADS_RU), далее всё зависит от версии расширения:
+Нажмите [сюда](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt&title=NoADS_RU), от  от [Zalexanninev15](https://github.com/Zalexanninev15/NoADS_RU/),
+еще [RU AdList: BitBlock + Fanboy's General](https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/bitblock.txt&title=RU%20AdList%20BitBlock%20Fanboys%20General) ,
+еще [RU AdList: Counters](https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/cntblock.txt&title=RU%20AdList%20Counters) , далее всё зависит от версии расширения:
 
 **Вариант 1:** Откроется вкладка с возможностью подписаться на список (в новых версиях uBlock Origin). Смело нажимайте на кнопку *Подписаться*
 
