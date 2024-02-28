@@ -23,3 +23,7 @@ yandex.ru##div[style="position: relative;"]
 ! 2024-02-28 https://yandex.ru Сделайте Яндекс основным поиском
 yandex.ru##.Modal-Content
 yandex.ru##.Modal-Overlay
+yandex.ru##.Modal-Cell_align_middle.Modal-Cell
+yandex.ru##.Modal-Table
+yandex.ru##.Modal-Wrapper
+yandex.ru##.SplashscreenDefault.DistributionSplashScreenModal_outerCross.DistributionSplashScreenModal.Modal_hasAnimation.Modal_visible.Modal
